@@ -1,4 +1,4 @@
-# MRI Programming Task Sheet #1
+# MRI Programming Task Sheet #2
 **Supervision:** <span style = "color: red;"> Dr/ Inas Ahmed Yunis </span> 
 
 ## Information
@@ -65,10 +65,10 @@
 # Results for Task2
 
 ***Recovery time for CSF Tissue***
-> ![Recovery](Results/T1(CSF).jpg)
+> ![Recovery](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/T1(CSF).JPG)
 
 ***Relaxation time for CSF Tissue***
-> ![Relaxation](Results/T2(CSF).jpg)
+> ![Relaxation](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/T2(CSF).JPG)
 
 ***K-Space for phantom***
-> ![Fourier](Results/Phantom_FT.jpg)
+> ![Fourier](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/Phantom_K-Space.JPG)
