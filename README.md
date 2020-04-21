@@ -71,4 +71,4 @@
 > ![Relaxation](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/T2(CSF).JPG)
 
 ***K-Space for phantom***
-> ![Fourier](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/Phantom_K-Space.JPG)
+> ![Fourier](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/Phantom_K-Space.png)
