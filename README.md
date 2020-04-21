@@ -63,7 +63,7 @@
     T2: Decay Time
 
 # Results for Task2
-
+### we assumed we have 5 spins <br>
 ***Recovery time for CSF Tissue***
 > ![Recovery](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/T1(CSF).JPG)
 
@@ -72,3 +72,8 @@
 
 ***K-Space for phantom***
 > ![Fourier](https://github.com/mostafa20223/MRI-Task2/blob/master/Results/Phantom_K-Space.JPG)
+
+***Difference in Angular Frequencies*** 
+> ![Fourier](https://github.com/mostafa20223/MRI-Task2/blob/master/Video/Differenct-angular-frequencies.gif ) <br>
+### Here we plotted the behavior of different larmor frequencies as the a result of applying a non uniform static magnetic field based on the assumption we mentioned earlier that we have 5 spins .
+
