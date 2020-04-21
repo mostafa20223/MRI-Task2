@@ -33,6 +33,13 @@
         pip install sympy
 
 ## Equations
+**Larmor Frequency**
+> <span style="color: red;"> *w = Gama * B* </span>
+
+    w is Larmor Frequency
+    Gama is the gyromagnetic ratio
+    B is the static magnetic field
+
 **Magnetic Moment Equation1**
 > <span style="color: red;"> *µ = Gama * J* </span>
 
